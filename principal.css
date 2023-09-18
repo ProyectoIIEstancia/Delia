@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    height: 15vh;
+    background-color: #0e0d0dd8;
+    display: flex;
+}
+#main{
+    height: 65vh;
+    background-color: #fcfdfb;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+
+}
+#sec{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#footer{
+    height: 20vh;
+    background-color: #eef3e5;
+    width: 100vw;
+    display: flow-root;
+}

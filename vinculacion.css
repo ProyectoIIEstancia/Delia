@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    height: 15vh;
+    background-color: #000000;
+    display: flex;
+    align-items: flex-end;
+}
+#principal{
+    height: 70vh;
+    background-color: #ffffff;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+#contenedor{
+    height: 40vh;
+    width: 40vw;
+    background-color: #eef3e5;
+    border-radius: 15px;
+}
+#piepagina{
+
+    height: 15vh;
+    background-color: #eef3e5;
+    display: flow-root;
+    align-items: center;
+
+}
